@@ -1,5 +1,5 @@
 {
-  "name": "Python 3, Node.js & TypeScript",
+  "name": "Python 3 & Node.js",
 
 	"build": {
 		"dockerfile": "Dockerfile",
