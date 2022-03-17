@@ -1,4 +1,4 @@
-# Sage Bionetworks Development Containers
+# Sage Bionetworks Dev Containers
 
 A **development container** is a running [Docker](https://www.docker.com)
 container with a well-defined tool/runtime stack and its prerequisites. The [VS
